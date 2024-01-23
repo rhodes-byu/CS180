@@ -33,6 +33,8 @@ Output:
 
 `cube(4) = 99`
 
+Description: [1, 2, 3, 4] -> [1, 4, 27, 64] -> 4 + 27 + 64 = 99
+
 ### Test Case 2:
 
 Input:
